@@ -39,7 +39,7 @@ If you prefer not to build it yourself,
 - Latest release found here: [releases](https://github.com/ctrl-alt-caleb/InterSniffer/releases/tag/1.0.0)
 
 
-[Back To The Top](#Inter-Sniffer)
+[Back To The Top](#top)
 
 
 
