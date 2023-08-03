@@ -3,3 +3,4 @@
 *.shader linguist-detectable=false
 *.java linguist-detectable=false
 *.ll linguist-detectable=false
+*.aidl linguist-detectable=false
