@@ -1,3 +1,4 @@
 # Ignore Visual Studio temporary files
 .vs/
 /LolSniffer/obj
+/LolSniffer/bin

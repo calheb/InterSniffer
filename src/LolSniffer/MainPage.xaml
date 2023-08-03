@@ -5,7 +5,6 @@
              x:Class="LolSniffer.MainPage"
              BackgroundColor="#31313C">
 
-    <ScrollView>
         <VerticalStackLayout
             Spacing="25"
             Padding="30,0"
@@ -13,22 +12,27 @@
 
             <Image
                 Source="logo.png"
-                SemanticProperties.Description="Cute dot net bot waving hi to you!"
+                SemanticProperties.Description="lol logo"
                 HeightRequest="200"
-                HorizontalOptions="Center" />
+                HorizontalOptions="Center"
+                Margin="0,50,0,0" />
 
             <Label
                 x:Name="loadingText"
                 Text="Waiting for player data..."
                 SemanticProperties.HeadingLevel="Level1"
-                FontSize="Body"
+                FontSize="32"
                 HorizontalOptions="Center"
-                IsVisible="True"/>
-            
+                IsVisible="True"
+                Margin="0,50,0,0" />    
+
             <ActivityIndicator 
                 x:Name="loadingIndicator" 
                 IsRunning="True" 
-                IsVisible="True"/>
+                IsVisible="True"
+                WidthRequest="50" 
+                HeightRequest="50"
+                Margin="0,20,0,0" />
 
             <Button
                 x:Name="SearchBtn"
@@ -125,5 +129,4 @@
                     TextColor="White" 
                     IsVisible="False"/>
         </VerticalStackLayout>
-    </ScrollView>
 </ContentPage>
