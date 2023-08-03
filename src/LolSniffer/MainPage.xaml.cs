@@ -46,13 +46,9 @@ namespace LolSniffer
         private async void SearchSummoners(IList<string> names)
         {
             IList<string> summonerNames = names;
-            IList<string> summonerNamesTEST = names.Distinct().Take(5).ToList();
-
 
             Console.WriteLine("Summoner names: " + String.Join(", ", summonerNames));
             Debug.WriteLine("Summoner names: " + String.Join(", ", summonerNames));
-            Console.WriteLine("Summoner names: " + String.Join(", ", summonerNamesTEST));
-            Debug.WriteLine("Summoner names: " + String.Join(", ", summonerNamesTEST));
 
             HttpClient client = new HttpClient();
 
