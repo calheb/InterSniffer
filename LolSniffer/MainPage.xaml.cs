@@ -56,7 +56,7 @@ namespace LolSniffer
 
             HttpClient client = new HttpClient();
 
-            string apiKey = "RGAPI-400795c0-4d36-47c5-b699-2626e7f376e4";
+            string apiKey = "";
 
             foreach (var summonerName in summonerNames)
             {
