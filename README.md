@@ -36,7 +36,9 @@
 
 ## Download
 If you prefer not to build it yourself,
-- Latest release found here: [releases](https://github.com/ctrl-alt-caleb/InterSniffer/releases/tag/1.0.0)
+Latest release found here: [releases](https://github.com/ctrl-alt-caleb/InterSniffer/releases/tag/1.0.0)
+
+Simply download the .msix file and install the program.
 
 
 [Back To The Top](#top)
