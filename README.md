@@ -29,19 +29,15 @@
   
 ## How To Use
 
-- Clone the project and build it in with .NET Framework 7.0
+- Clone the project and build it with .NET Framework 7.0
 - Add your own Riot API key to MainPage.xaml.cs
 - Build/publish the project with either Visual Studio or CLI.
 - Refer to documentation for publishing a MAUI app: https://learn.microsoft.com/en-us/dotnet/maui/windows/deployment/overview
 
 ## Download
-If you prefer not to build it yourself,
-Latest release found here: [releases](https://github.com/ctrl-alt-caleb/InterSniffer/releases/tag/1.0.0)
+If you prefer not to build it yourself,<br/>the latest release can be found here: [releases](https://github.com/ctrl-alt-caleb/InterSniffer/releases/tag/1.0.0)
 
 Simply download the .msix file and install the program.
 
 
 [Back To The Top](#top)
-
-
-
