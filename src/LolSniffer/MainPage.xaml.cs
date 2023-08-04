@@ -33,14 +33,6 @@ namespace LolSniffer
             // When the NameListUpdated event is triggered, get the _UniqueNames list from the service
             var uniqueNames = _lobbyService.GetUniqueNames();
             SearchSummoners(uniqueNames);
-
-            // Here you can do whatever you need with the uniqueNames list
-            // ...
-        }
-
-        private void OnSearchClicked(object sender, EventArgs e)
-        {
-            //SearchSummoners();
         }
 
         private async void SearchSummoners(IList<string> names)
