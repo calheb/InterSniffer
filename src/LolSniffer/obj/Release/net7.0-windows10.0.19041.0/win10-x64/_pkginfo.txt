@@ -1,0 +1,1 @@
+C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppPackages\LolSniffer_1.0.0.0_Test\LolSniffer_1.0.0.0_x64.msix

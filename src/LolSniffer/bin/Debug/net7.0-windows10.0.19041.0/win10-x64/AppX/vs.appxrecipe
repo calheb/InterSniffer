@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>03dbafd6-bcd1-43ac-b69d-1440971533e8</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>4DDB81B2CB321B87EA36E58EF2239489B06CB3A139AEB2D0074AF16149DB5F3B</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>03dbafd6-bcd1-43ac-b69d-1440971533e8_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>03dbafd6-bcd1-43ac-b69d-1440971533e8_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,28 +26,28 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-04T00:35:13.713</Modified>
+      <Modified>2023-08-04T03:12:51.913</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-04T00:35:13.206</Modified>
+      <Modified>2023-08-04T03:12:51.396</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LolSniffer.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LolSniffer.runtimeconfig.json">
       <PackagePath>LolSniffer.runtimeconfig.json</PackagePath>
-      <Modified>2023-08-04T00:35:12.990</Modified>
+      <Modified>2023-08-03T21:35:19.462</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LolSniffer.dll">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\LolSniffer.dll">
       <PackagePath>LolSniffer.dll</PackagePath>
-      <Modified>2023-08-04T00:35:11.318</Modified>
+      <Modified>2023-08-04T03:12:49.475</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>LolSniffer.exe</PackagePath>
-      <Modified>2023-08-04T00:35:11.345</Modified>
+      <Modified>2023-08-04T03:12:49.501</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Caleb\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -993,9 +993,9 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\LolSniffer.deps.json">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\LolSniffer.deps.json">
       <PackagePath>LolSniffer.deps.json</PackagePath>
-      <Modified>2023-08-04T00:35:13.501</Modified>
+      <Modified>2023-08-04T03:12:51.701</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.86\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1009,273 +1009,273 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-04-25T21:26:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2023-08-04T00:34:07.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.829</Modified>
+      <Modified>2023-08-04T03:03:53.933</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.829</Modified>
+      <Modified>2023-08-04T03:03:53.953</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.836</Modified>
+      <Modified>2023-08-04T03:03:53.982</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.836</Modified>
+      <Modified>2023-08-04T03:03:54.027</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.836</Modified>
+      <Modified>2023-08-04T03:03:54.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T00:34:07.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T00:34:07.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:16.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:17.028</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:17.039</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:17.054</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:17.080</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:17.180</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:16.874</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:16.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:16.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.767</Modified>
+      <Modified>2023-08-04T03:12:16.876</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.865</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.873</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.866</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.867</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.852</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.856</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.864</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.858</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.912</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.783</Modified>
+      <Modified>2023-08-04T03:12:16.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.923</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.893</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.897</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.906</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.884</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.888</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.892</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.952</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.958</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:17.021</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-100.png">
       <PackagePath>box_arrow_up_right.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-125.png">
       <PackagePath>box_arrow_up_right.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-150.png">
       <PackagePath>box_arrow_up_right.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.847</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-200.png">
       <PackagePath>box_arrow_up_right.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.798</Modified>
+      <Modified>2023-08-04T03:12:16.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\box_arrow_up_right.scale-400.png">
       <PackagePath>box_arrow_up_right.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T03:12:16.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T03:12:15.325</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T03:12:15.356</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T03:12:16.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T03:12:16.882</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T03:12:16.936</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
       <PackagePath>logo.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T00:34:07.505</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo2.scale-100.png">
       <PackagePath>logo2.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.814</Modified>
+      <Modified>2023-08-04T00:34:07.521</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo3.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Caleb\source\repos\LolSniffer\src\LolSniffer\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo3.scale-100.png">
       <PackagePath>logo3.scale-100.png</PackagePath>
-      <Modified>2023-08-04T00:34:15.829</Modified>
+      <Modified>2023-08-04T00:34:07.521</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
