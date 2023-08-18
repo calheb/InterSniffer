@@ -35,7 +35,7 @@
 - Refer to documentation for publishing a MAUI app: https://learn.microsoft.com/en-us/dotnet/maui/windows/deployment/overview
 
 ## Download
-If you prefer not to build it yourself,<br/>the latest release can be found here: [releases](https://github.com/ctrl-alt-caleb/InterSniffer/releases/tag/1.0.0)
+If you prefer not to build it yourself,<br/>the latest release can be found here: [releases](https://github.com/ctrl-alt-caleb/InterSniffer/releases/)
 
 Simply download the .msix file and install the program.
 If you get an "unknown publisher" error, follow these steps to resolve the issue: https://beebom.com/how-fix-publisher-could-not-be-verified-error-windows-11/
