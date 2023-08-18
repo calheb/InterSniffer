@@ -4,3 +4,4 @@
 *.java linguist-detectable=false
 *.ll linguist-detectable=false
 *.aidl linguist-detectable=false
+*.ps1 linguist-detectable=false
