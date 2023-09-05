@@ -29,7 +29,7 @@
   
 ## How To Use
 
-- Clone the project and build it with .NET Framework 7.0
+- Clone the project and build it with .NET Framework 7.0 (MAUI)
 - Add your own Riot API key to MainPage.xaml.cs
 - Build/publish the project with either Visual Studio or CLI.
 - Refer to documentation for publishing a MAUI app: https://learn.microsoft.com/en-us/dotnet/maui/windows/deployment/overview
