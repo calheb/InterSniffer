@@ -1,18 +1,15 @@
 # Inter Sniffer
 
-<h3 align='left'>
-  A tool to display your teammates in a ranked league of legends lobby, along with some basic stats.
-  <br><h4 align='left'>Currently available on Windows.<h4>
-<h3>
+A tool to display your teammates in a ranked league of legends lobby, along with some basic stats.
+Currently available on Windows.
+
   
-#
   ### Table of Contents
   
 - [Download](#download)
 - [How To Use](#how-to-use)
 - [Screen Shots](#screen-shots)
 
-#
 
  ## Screen Shots
   
